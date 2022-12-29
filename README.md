@@ -3,11 +3,11 @@
 Projeto desenvolvido com a instrutora Nathally Souza
 
 ## Ferramentas Utilizadas:
-. **Javascript**
+ **Javascript**
 
-. **React com Redux**
+ **React com Redux**
 
-. **Bootstrap**
+ **Bootstrap**
 
 ## Links Úteis
 MATERIAL-UI. Biblioteca de componentes React para um desenvolvimento ágil e fácil.
