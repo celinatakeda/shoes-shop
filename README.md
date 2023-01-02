@@ -1,6 +1,6 @@
 # E-commerce de uma loja de calçados femininos
 
-Projeto desenvolvido com a instrutora Nathally Souza
+Projeto desenvolvido com a instrutora Nathally Souza.
 
 ## Ferramentas Utilizadas:
 . **Javascript**
@@ -9,6 +9,10 @@ Projeto desenvolvido com a instrutora Nathally Souza
 
 . **Bootstrap**
 
+## Visual do projeto
+<p>
+  <img src=".github/shoesShop.png">
+</p>
 ## Links Úteis
 MATERIAL-UI. Biblioteca de componentes React para um desenvolvimento ágil e fácil.
 
