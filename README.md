@@ -15,7 +15,9 @@ Projeto desenvolvido com a instrutora Nathally Souza.
 </p>
 
 ## Links Úteis
-MATERIAL-UI. Biblioteca de componentes React para um desenvolvimento ágil e fácil.
+```
+MATERIAL-UI 
+Biblioteca de componentes React para um desenvolvimento ágil e fácil.
 
 https://v4.mui.com/pt
-
+```
