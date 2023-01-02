@@ -3,11 +3,11 @@
 Projeto desenvolvido com a instrutora Nathally Souza.
 
 ## Ferramentas Utilizadas:
-. **Javascript**
+  **Javascript**
 
-. **React com Redux**
+  **React com Redux**
 
-. **Bootstrap**
+  **Bootstrap**
 
 ## Visual do projeto
 <p>
