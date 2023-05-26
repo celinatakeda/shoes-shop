@@ -10,7 +10,7 @@ Projeto desenvolvido com a instrutora Nathally Souza.
   **Bootstrap**
 
 
-## Visual do projeto
+<h1 align=center> Visual do projeto </h1>
 <p>
   <img src=".github/shoesShop.png">
 </p>
